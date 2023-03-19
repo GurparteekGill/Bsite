@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 # Create your views here.
 from django.shortcuts import render, HttpResponse
-from home.models import Contact
+#from home.models import Contact
 #from blog.models import Post,PostextraImages # For Search 
 # Create your views here.
 
